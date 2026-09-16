@@ -1,3 +1,7 @@
+# gMetaTarz - Quickstart your Metatarz Wallet on Canton Network
+
+[![app-preview.png](https://i.postimg.cc/XvkK1L5f/app-preview.png)](https://postimg.cc/KK4gRnJj)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
